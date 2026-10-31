@@ -1,6 +1,3 @@
-# fashion-mnist-cnn
-Comparison of a baseline neural network and CNN models on Fashion-MNIST, including evaluation and improvement experiments.
-
 # Fashion-MNIST Model Comparison
 
 This project compares a baseline neural network with convolutional neural networks (CNNs) for classifying images from the Fashion-MNIST dataset.
